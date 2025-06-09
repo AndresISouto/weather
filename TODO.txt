@@ -1,0 +1,1 @@
+- busca el favicon y las imagenes
